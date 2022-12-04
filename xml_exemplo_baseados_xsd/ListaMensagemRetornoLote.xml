@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaMensagemRetornoLote xmlns="http://www.abrasf.org.br/nfse.xsd">
+  <MensagemRetorno>
+    <IdentificacaoRps>
+      <Numero>0</Numero>
+      <Serie>Seri1</Serie>
+      <Tipo>1</Tipo>
+    </IdentificacaoRps>
+    <Codigo>Cod1</Codigo>
+    <Mensagem>Mensagem1</Mensagem>
+  </MensagemRetorno>
+  <MensagemRetorno>
+    <IdentificacaoRps>
+      <Numero>-999999999999999</Numero>
+      <Serie>Seri2</Serie>
+      <Tipo>-128</Tipo>
+    </IdentificacaoRps>
+    <Codigo>Cod2</Codigo>
+    <Mensagem>Mensagem2</Mensagem>
+  </MensagemRetorno>
+  <MensagemRetorno>
+    <IdentificacaoRps>
+      <Numero>999999999999999</Numero>
+      <Serie>Seri3</Serie>
+      <Tipo>127</Tipo>
+    </IdentificacaoRps>
+    <Codigo>Cod3</Codigo>
+    <Mensagem>Mensagem3</Mensagem>
+  </MensagemRetorno>
+</ListaMensagemRetornoLote>

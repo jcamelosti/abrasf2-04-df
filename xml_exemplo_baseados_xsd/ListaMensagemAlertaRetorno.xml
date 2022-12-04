@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListaMensagemAlertaRetorno xmlns="http://www.abrasf.org.br/nfse.xsd">
+  <MensagemRetorno>
+    <Codigo>Cod1</Codigo>
+    <Mensagem>Mensagem1</Mensagem>
+    <Correcao>Correcao1</Correcao>
+  </MensagemRetorno>
+  <MensagemRetorno>
+    <Codigo>Cod2</Codigo>
+    <Mensagem>Mensagem2</Mensagem>
+    <Correcao>Correcao2</Correcao>
+  </MensagemRetorno>
+  <MensagemRetorno>
+    <Codigo>Cod3</Codigo>
+    <Mensagem>Mensagem3</Mensagem>
+    <Correcao>Correcao3</Correcao>
+  </MensagemRetorno>
+</ListaMensagemAlertaRetorno>
